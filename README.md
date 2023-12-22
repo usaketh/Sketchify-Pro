@@ -1,5 +1,5 @@
 # Sketchify Pro #
-A web based whiteboard tool to easily sketch diagrams that have a hand-drawn feel to them built using NextJS, Websockets and TailWind CSS.
+A web based collaborative drawing tool to easily sketch diagrams that have a hand-drawn feel to them.
 
 
 https://github.com/usaketh/Sketchify-Pro/assets/64151405/131bfb42-37d1-4050-9b6a-31d058df8b05
