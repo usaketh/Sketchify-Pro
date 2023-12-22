@@ -15,14 +15,14 @@ https://github.com/usaketh/Sketchify-Pro/assets/64151405/7d3bde80-a1e7-448f-a7a2
 
 
 # 🎨 Features:
-🖌️ The top menu bar has options to draw, erase, undo, and download the drawing in .jpg format.
+1.🖌️ The top menu bar has options to draw, erase, undo, and download the drawing in .jpg format.
 
-🛠️ The side bar has options to change the stroke color and brush size.
+2.🛠️ The side bar has options to change the stroke color and brush size.
 
-⏰ Actions, including drawing, erasing, color changes, and size adjustments, occur in real-time across all instances sharing the same domain address.
+3.⏰ Actions, including drawing, erasing, color changes, and size adjustments, occur in real-time across all instances sharing the same domain address.
 
-🤝 Crafted for collaborative creativity, enabling multiple users to contribute and create together on a shared canvas in real-time.
+4.🤝 Crafted for collaborative creativity, enabling multiple users to contribute and create together on a shared canvas in real-time.
 
-🌟 Clean and responsive UI with a full-screen canvas for an enhanced user experience.
+5.🌟 Clean and responsive UI with a full-screen canvas for an enhanced user experience.
 
 Try it out with your friends: https://sketchify-pro.vercel.app/
