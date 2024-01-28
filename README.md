@@ -26,3 +26,4 @@ https://github.com/usaketh/Sketchify-Pro/assets/64151405/7d3bde80-a1e7-448f-a7a2
 5.🌟 Clean and responsive UI with a full-screen canvas for an enhanced user experience.
 
 Try it out with your friends: https://sketchify-pro.vercel.app/
+
